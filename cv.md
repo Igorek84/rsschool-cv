@@ -17,3 +17,8 @@ Hardworking, purposeful, disciplined. The goal is to master frontend and backend
 turnkey websites.Freelance work is a priority. There is no work experience.*
 
 ***
+## Skills
+
+Basic knowledge of ***HTML***, ***CSS***, ***JS***, ***REACT***, ***GIT***.
+
+***
